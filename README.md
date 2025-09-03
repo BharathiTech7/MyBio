@@ -6,3 +6,4 @@ It includes details like my name, interests, skills, and a short description abo
 🛠️ Technologies Used
  - HTML5
  - CSS
+live:https://bharathitech7.github.io/MyBio/
